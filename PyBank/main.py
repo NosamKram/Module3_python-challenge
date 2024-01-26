@@ -9,7 +9,7 @@ months = []
 profit_losses = []
 
 # Open and read the CSV file
-with open(file_path, 'r') as file:
+with open(file_path,'r') as file:
     reader = csv.reader(file)
     next(reader)  # Skip the header
 
