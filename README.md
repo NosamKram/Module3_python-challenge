@@ -32,3 +32,6 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 
 The winner of the election based on popular vote
+
+
+Thank you for assistance from tutors Sandhya and Alysia as well as classmates, class notes, chatGPT and Xpert Learning Assistant.
